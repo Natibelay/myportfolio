@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//Natibelay.github.io/myportfolio/static/css/main.805e30a5.css",
+    "main.js": "//Natibelay.github.io/myportfolio/static/js/main.1dbe61a4.js",
+    "static/media/w (3).png": "//Natibelay.github.io/myportfolio/static/media/w (3).1012f3dc06d50fe09877.png",
+    "static/media/winy.png": "//Natibelay.github.io/myportfolio/static/media/winy.c1196be78b86e7626d57.png",
+    "index.html": "//Natibelay.github.io/myportfolio/index.html",
+    "main.805e30a5.css.map": "//Natibelay.github.io/myportfolio/static/css/main.805e30a5.css.map",
+    "main.1dbe61a4.js.map": "//Natibelay.github.io/myportfolio/static/js/main.1dbe61a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.805e30a5.css",
+    "static/js/main.1dbe61a4.js"
+  ]
+}
