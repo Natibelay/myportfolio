@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "//Natibelay.github.io/myportfolio/static/css/main.8f6e2b07.css",
-    "main.js": "//Natibelay.github.io/myportfolio/static/js/main.68e7699b.js",
+    "main.css": "//Natibelay.github.io/myportfolio/static/css/main.f8597de1.css",
+    "main.js": "//Natibelay.github.io/myportfolio/static/js/main.e2e091da.js",
     "static/media/win.JPG": "//Natibelay.github.io/myportfolio/static/media/win.017b4ab111b08de4aa9d.JPG",
-    "static/media/winyprofile.png": "//Natibelay.github.io/myportfolio/static/media/winyprofile.633adfdd80550e6d478a.png",
+    "static/media/ww.png": "//Natibelay.github.io/myportfolio/static/media/ww.21e620acba5e2040101d.png",
     "static/media/wyellow.jpg": "//Natibelay.github.io/myportfolio/static/media/wyellow.38b1babc6f0f2140ecca.jpg",
     "static/media/winy.png": "//Natibelay.github.io/myportfolio/static/media/winy.c1196be78b86e7626d57.png",
     "static/media/winylogo.png": "//Natibelay.github.io/myportfolio/static/media/winylogo.0e03827da08367299fc1.png",
     "index.html": "//Natibelay.github.io/myportfolio/index.html",
-    "main.8f6e2b07.css.map": "//Natibelay.github.io/myportfolio/static/css/main.8f6e2b07.css.map",
-    "main.68e7699b.js.map": "//Natibelay.github.io/myportfolio/static/js/main.68e7699b.js.map"
+    "main.f8597de1.css.map": "//Natibelay.github.io/myportfolio/static/css/main.f8597de1.css.map",
+    "main.e2e091da.js.map": "//Natibelay.github.io/myportfolio/static/js/main.e2e091da.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f6e2b07.css",
-    "static/js/main.68e7699b.js"
+    "static/css/main.f8597de1.css",
+    "static/js/main.e2e091da.js"
   ]
 }
